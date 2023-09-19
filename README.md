@@ -8,11 +8,13 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=Flechazo-YH&show_icons=true&theme=transparent)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Flechazo-YH&layout=compact&theme=tokyonight)
+
 You are my ![Visitor Count](https://profile-counter.glitch.me/Flechazo-YH/count.svg) visitor,Thank You!:kissing_heart::kissing_heart:
 
 ### My Skill Set
 
 ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-
+![](https://github-readme-activity-graph.cyclic.app/graph?username=Flechazo-YH&theme=dracula)
  
