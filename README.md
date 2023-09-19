@@ -4,7 +4,7 @@
 -  I’m currently learning Everything I like.
 -  Ask me about anything related to Java/Python.
 -  How to reach me: 1063742156@qq.com
--  Read more about my CSDN: [here]([https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343](https://blog.csdn.net/m0_72149295?spm=1000.2115.3001.5343))
+-  Read more about my CSDN: [here](https://blog.csdn.net/qq_44231797?spm=1000.2115.3001.5343)
 
 ![](https://github-readme-stats.vercel.app/api?username=Flechazo-YH&show_icons=true&theme=transparent)
 
